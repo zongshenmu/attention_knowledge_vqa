@@ -1,5 +1,5 @@
 the vqa model framework illustrates as blow
-![image](https://github.com/zongshenmu/attention_knowledge_vqa/framework.png?raw=true)
+![image](https://raw.githubusercontent.com/zongshenmu/attention_knowledge_vqa/master/framework.png)
   
 #first step
 run: download.sh
