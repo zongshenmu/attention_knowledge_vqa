@@ -1,0 +1,121 @@
+epoch 0, time: 262.15
+	train_loss: 21.12, score: 22.83
+	val_loss: 7.77, val_score: 24.98 (92.66)
+	yes_score: 63.28, num_score: 0.32 other_score:2.72)
+epoch 1, time: 265.08
+	train_loss: 6.91, score: 28.57
+	val_loss: 6.39, val_score: 32.91 (92.66)
+	yes_score: 62.48, num_score: 22.25 other_score:15.69)
+epoch 2, time: 264.13
+	train_loss: 5.67, score: 36.72
+	val_loss: 5.41, val_score: 38.78 (92.66)
+	yes_score: 65.00, num_score: 30.22 other_score:24.88)
+epoch 3, time: 263.90
+	train_loss: 5.38, score: 39.31
+	val_loss: 5.25, val_score: 40.44 (92.66)
+	yes_score: 64.50, num_score: 31.31 other_score:28.89)
+epoch 4, time: 383.42
+	train_loss: 4.73, score: 44.24
+	val_loss: 4.74, val_score: 44.81 (92.66)
+	yes_score: 65.63, num_score: 32.12 other_score:37.84)
+epoch 5, time: 262.25
+	train_loss: 4.39, score: 47.49
+	val_loss: 4.55, val_score: 46.69 (92.66)
+	yes_score: 65.90, num_score: 32.85 other_score:41.76)
+epoch 6, time: 259.55
+	train_loss: 4.14, score: 50.08
+	val_loss: 4.41, val_score: 48.59 (92.66)
+	yes_score: 66.82, num_score: 34.98 other_score:44.77)
+epoch 7, time: 259.96
+	train_loss: 3.94, score: 52.39
+	val_loss: 4.37, val_score: 48.91 (92.66)
+	yes_score: 66.72, num_score: 35.32 other_score:45.52)
+epoch 8, time: 362.61
+	train_loss: 3.76, score: 54.49
+	val_loss: 4.28, val_score: 50.41 (92.66)
+	yes_score: 67.87, num_score: 35.56 other_score:47.94)
+epoch 9, time: 260.54
+	train_loss: 3.62, score: 56.38
+	val_loss: 4.25, val_score: 51.09 (92.66)
+	yes_score: 68.29, num_score: 36.42 other_score:48.91)
+epoch 10, time: 382.59
+	train_loss: 3.49, score: 58.11
+	val_loss: 4.25, val_score: 51.63 (92.66)
+	yes_score: 69.19, num_score: 36.69 other_score:49.29)
+epoch 11, time: 387.53
+	train_loss: 3.39, score: 59.60
+	val_loss: 4.23, val_score: 52.02 (92.66)
+	yes_score: 69.13, num_score: 37.07 other_score:50.14)
+epoch 12, time: 398.27
+	train_loss: 3.28, score: 61.17
+	val_loss: 4.23, val_score: 52.62 (92.66)
+	yes_score: 70.11, num_score: 37.90 other_score:50.45)
+epoch 13, time: 341.22
+	train_loss: 3.18, score: 62.71
+	val_loss: 4.28, val_score: 52.79 (92.66)
+	yes_score: 70.53, num_score: 37.85 other_score:50.50)
+epoch 14, time: 264.52
+	train_loss: 3.09, score: 64.22
+	val_loss: 4.28, val_score: 53.25 (92.66)
+	yes_score: 71.13, num_score: 38.16 other_score:50.95)
+epoch 15, time: 380.18
+	train_loss: 3.00, score: 65.58
+	val_loss: 4.32, val_score: 53.13 (92.66)
+	yes_score: 71.09, num_score: 38.26 other_score:50.67)
+epoch 16, time: 251.49
+	train_loss: 2.92, score: 66.94
+	val_loss: 4.40, val_score: 53.30 (92.66)
+	yes_score: 71.63, num_score: 37.28 other_score:50.89)
+epoch 17, time: 252.58
+	train_loss: 2.85, score: 68.13
+	val_loss: 4.43, val_score: 53.46 (92.66)
+	yes_score: 71.72, num_score: 37.73 other_score:51.05)
+epoch 18, time: 253.17
+	train_loss: 2.79, score: 69.26
+	val_loss: 4.53, val_score: 53.37 (92.66)
+	yes_score: 71.77, num_score: 38.51 other_score:50.56)
+epoch 19, time: 251.55
+	train_loss: 2.72, score: 70.40
+	val_loss: 4.50, val_score: 53.93 (92.66)
+	yes_score: 72.35, num_score: 39.21 other_score:51.18)
+epoch 20, time: 305.98
+	train_loss: 2.65, score: 71.53
+	val_loss: 4.54, val_score: 53.96 (92.66)
+	yes_score: 72.70, num_score: 38.66 other_score:51.08)
+epoch 21, time: 261.42
+	train_loss: 2.59, score: 72.52
+	val_loss: 4.58, val_score: 53.97 (92.66)
+	yes_score: 72.38, num_score: 39.17 other_score:51.25)
+epoch 22, time: 386.46
+	train_loss: 2.54, score: 73.47
+	val_loss: 4.66, val_score: 53.92 (92.66)
+	yes_score: 72.96, num_score: 39.16 other_score:50.65)
+epoch 23, time: 386.88
+	train_loss: 2.49, score: 74.47
+	val_loss: 4.69, val_score: 54.05 (92.66)
+	yes_score: 72.94, num_score: 38.91 other_score:51.03)
+epoch 24, time: 265.05
+	train_loss: 2.44, score: 75.29
+	val_loss: 4.74, val_score: 54.03 (92.66)
+	yes_score: 72.93, num_score: 38.83 other_score:51.00)
+epoch 25, time: 343.29
+	train_loss: 2.39, score: 76.14
+	val_loss: 4.79, val_score: 54.08 (92.66)
+	yes_score: 73.16, num_score: 38.20 other_score:51.10)
+epoch 26, time: 251.36
+	train_loss: 2.35, score: 76.99
+	val_loss: 4.85, val_score: 54.15 (92.66)
+	yes_score: 73.48, num_score: 38.82 other_score:50.81)
+epoch 27, time: 249.85
+	train_loss: 2.31, score: 77.68
+	val_loss: 4.86, val_score: 53.95 (92.66)
+	yes_score: 73.49, num_score: 37.12 other_score:50.83)
+epoch 28, time: 250.91
+	train_loss: 2.26, score: 78.42
+	val_loss: 4.91, val_score: 54.10 (92.66)
+	yes_score: 73.33, num_score: 38.08 other_score:51.04)
+epoch 29, time: 251.31
+	train_loss: 2.22, score: 79.16
+	val_loss: 4.99, val_score: 53.99 (92.66)
+	yes_score: 73.51, num_score: 38.06 other_score:50.62)
+	best val_score: 54.15
