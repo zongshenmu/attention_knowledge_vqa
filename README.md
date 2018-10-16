@@ -13,14 +13,18 @@ download rawdata include:
 >>v2_OpenEnded_mscoco_val2014_questions.json
 >>v2_OpenEnded_mscoco_test2015_questions.json
 >>v2_OpenEnded_mscoco_test-dev2015_questions.json
+
 >2)answer
 >>v2_mscoco_train2014_annotations.json
 >>v2_mscoco_val2014_annotations.json
+
 >3)image id
 >>train_ids.pkl
 >>val_ids.pkl
+
 >4)image salinet region features
 >>trainval_resnet101_faster_rcnn_genome_36.tsv
+
 >5)image bounding boxes info
 >>instances_train2014.json
 >>instances_val2014.json
