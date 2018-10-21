@@ -37,16 +37,15 @@ preprocess the rawdata turning to maturedata
 
 # thrid step
 ```
-run: python3.6 train.py
+run python3.6 train.py
 ```
 train the bottom-up and top with knowledge base VQA model in the python3.6 and tensorflwo1.3(cpu or gpu) environment
 
 # final step
 if you want test or visualise result, you can refer the codes in the /postprecess and /test
 
-
-# knowledge.json
+# appendix
+## knowledge.json
 handcraft knowledge include mscoco dataset 80 object labels information from wikipedia
-
-#knowledge document vector(docid.json, doc_embeddings.pkl)
-refer my another repository:doc2vec
+## knowledge document vector(docid.json, doc_embeddings.pkl)
+refer to my another repository:doc2vec
