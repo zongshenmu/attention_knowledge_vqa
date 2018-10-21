@@ -45,7 +45,8 @@ train the bottom-up and top with knowledge base VQA model in the python3.6 and t
 if you want test or visualise result, you can refer the codes in the /postprecess and /test
 
 # appendix
-## knowledge.json
-handcraft knowledge include mscoco dataset 80 object labels information from wikipedia
-## knowledge document vector(docid.json, doc_embeddings.pkl)
-refer to my another repository:doc2vec
+>knowledge.json
+>>handcraft knowledge include mscoco dataset 80 object labels information from wikipedia
+
+>knowledge document vector(docid.json, doc_embeddings.pkl)
+>>refer to my another repository:doc2vec
