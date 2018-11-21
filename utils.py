@@ -9,6 +9,14 @@ import errno
 import os
 import numpy as np
 
+def assert_eq(real, expected):
+    assert real == expected, '%s (true) vs %s (expected)' % (real, expected)
+
+
+def assert_array_eq(real, expected):
+    assert (np.abs(real-expected) < EPS).all(), \
+        '%s (true) vs %s (expected)' % (real, expected)
+
 #创建目录
 def create_dir(path):
     if not os.path.exists(path):
